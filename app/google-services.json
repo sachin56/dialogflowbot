@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614848471168",
+    "project_id": "fruitloosebot",
+    "storage_bucket": "fruitloosebot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614848471168:android:e54a6c57c86efcd39b4665",
+        "android_client_info": {
+          "package_name": "com.bae.dialogflowbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614848471168-fjkr3oo05um4rtd87ntc7svc8jobql66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXfhzSHITREs6ZKyrAKRdVZ92fcxyonZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614848471168-fjkr3oo05um4rtd87ntc7svc8jobql66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
